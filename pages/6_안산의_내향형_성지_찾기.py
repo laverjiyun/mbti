@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="내향형(I)의 성지", layout="wide")
 
-st.title("🤫 안산에서 가장 MBTI 'I'들이 살기 좋은 동네는?")
+st.title("🤫 안산에서 MBTI 'I'들이 살기 가장 좋은 동네는?")
 st.markdown("---")
 
 try:
